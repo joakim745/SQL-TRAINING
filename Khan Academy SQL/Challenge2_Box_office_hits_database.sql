@@ -1,4 +1,4 @@
-/*Challenge: Box office hits database
+/*Challenge 2: Box office hits database
 
 1. This database contains an incomplete list of box office hits and their release year. In this challenge, you're going to get the results back out of the database in different ways! In this first step, just select all the movies.
 
