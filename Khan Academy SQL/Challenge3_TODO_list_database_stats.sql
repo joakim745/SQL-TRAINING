@@ -1,4 +1,4 @@
-/*Challenge: TODO list database stats
+/*Challenge 3: TODO list database stats
 
 1. Here's a table containing a TODO list with the number of minutes it will take to complete each item. Insert another item to your todo list with the estimated minutes it will take.
 
